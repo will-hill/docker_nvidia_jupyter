@@ -1,5 +1,7 @@
 # docker nvidia keras tensorflow jupyter
 
+https://github.com/will-hill/docker_nvidia_jupyter/blob/master/Test_GPU_Docker.ipynb
+
 ### test nvidia cuda docker: 
 docker run --gpus all --name gpu_smi_test nvidia/cuda nvidia-smi
 
